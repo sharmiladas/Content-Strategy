@@ -19,9 +19,10 @@ I lead content strategy and governance for developer-facing platforms — most r
 
 | Case Study | Focus | Context |
 |---|---|---|
-| [Content Advisor: An AI Governance Platform for 170M+ Words of Documentation](case-studies/content-advisor-ai-governance.md) https://github.com/sharmiladas/Content-Strategy/blob/main/content-as-business-asset.md | AI content governance, quality frameworks, release gates | AWS |
+| [Content Advisor: An AI Governance Platform for 170M+ Words of Documentation](case-studies/content-advisor-ai-governance.md) 
+https://github.com/sharmiladas/Content-Strategy/blob/main/content-as-business-asset.md | AI content governance, quality frameworks, release gates | AWS |
 | [Building a Knowledge Graph for Developer Documentation with Kiro and MCP](case-studies/knowledge-graph-kiro-mcp.md) | Agentic content systems, knowledge architecture | Large-scale developer platform |
-| [Content as a Business Asset: Scaling Governance for a Global Team](case-studies/content-as-business-asset.md) | Content strategy, team building, measurement | Global professional networking platform |
+| [Content as a Business Asset: Scaling Governance for a Global Team]([case-studies/content-as-business-asset.md](https://github.com/sharmiladas/Content-Strategy/blob/main/content-as-business-asset.md)) | Content strategy, team building, measurement | Global professional networking platform |
 | [Redesigning Help Center Content Architecture Around the Customer Journey](case-studies/help-center-content-architecture.md) | Information architecture, taxonomy, customer journey mapping | Eventbrite |
 | [Content Strategy for a Semiconductor IP Platform: From Documentation to Sales Enablement](case-studies/technical-content-semiconductor-ip.md) | Technical documentation, sales enablement, competitive research | Semiconductor design automation |
 
