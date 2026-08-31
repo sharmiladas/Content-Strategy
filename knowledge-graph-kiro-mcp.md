@@ -8,11 +8,11 @@ series: "Content Strategy in the AI Era"
 
 ## The Problem
 
-At a large-scale developer platform organization, developer documentation spans five distinct surfaces, each maintained by different teams on different cadences. Related content — a concept explained in one place, a reference for it somewhere else, a troubleshooting guide referencing both — often isn't connected at all. That hurts discoverability for human readers, and it's a worse problem for AI-assisted retrieval: an AI agent trying to answer a question can only be as good as the connections in the underlying content.
+At a large-scale developer platform organization, documentation spans five distinct surfaces, each maintained by different teams on different cadences. Related content — a concept explained in one place, a reference for it somewhere else, a troubleshooting guide referencing both — often isn't connected at all. That hurts discoverability for human readers, and it's a worse problem for AI-assisted retrieval: an AI agent trying to answer a question can only be as good as the connections in the underlying content.
 
 ## What I Built
 
-As Senior Technical Program Manager, Content Strategy and Developer Experience, I built a **knowledge graph for developer documentation** using **Kiro**, linking related content across surfaces to improve discoverability and support AI-assisted retrieval.
+I built a **knowledge graph for documentation** using **Kiro**, linking related content across surfaces to improve discoverability and support AI-assisted retrieval.
 
 The architecture behind it:
 
