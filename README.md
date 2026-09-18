@@ -1,60 +1,33 @@
-# Sharmila Rammohan — Content Strategy Portfolio
+# Content Strategy Portfolio
 
-Content strategy and operations leader with 15+ years building the governance systems, quality standards, and customer-journey-mapped experiences that scale content across cloud infrastructure, enterprise software, and AI platforms.
+This repository holds the working material behind my public portfolio: anonymized case studies, practical frameworks, and templates for content systems, knowledge architecture, and AI quality.
 
-📍 San Jose, CA · 📧 [das.sharmila@gmail.com](mailto:das.sharmila@gmail.com) · 🔗 [linkedin.com/in/sharmila](https://linkedin.com/in/sharmila)
+For the designed portfolio and essays, visit **[sharmiladas.github.io](https://sharmiladas.github.io/)**.
 
----
+## Start here
 
-## About
+| Area | What you will find |
+|---|---|
+| [Case studies](case-studies/) | Detailed examples of content operations, technical content, and knowledge-system work |
+| [AI knowledge systems](ai-knowledge-systems/) | A documentation knowledge-graph prototype and the decisions behind it |
+| [Frameworks](frameworks/) | Reusable methods for audits, ownership, planning, and measurement |
+| [Quality and evaluation](quality-and-evaluation/) | A review packet for grounded, risk-aware AI content decisions |
+| [Templates](templates/) | A lightweight content-audit worksheet that can be adapted to a real program |
+| [Articles](articles/) | Links to the essays published on the portfolio site |
 
-I lead content strategy and governance for developer-facing platforms — most recently building AI-assisted documentation systems at Amazon and AWS, and before that scaling a 30-person global content strategy team at LinkedIn. My work sits at the intersection of content strategy, information architecture, and AI systems: designing the governance frameworks, quality standards, and knowledge architectures that let content scale without losing accuracy or trust.
+## Selected work
 
-**Currently:** Senior Technical Program Manager, Content Strategy and Developer Experience — Amazon
-**Previously:** AWS · LinkedIn · Eventbrite · Thermo Fisher Scientific · Cadence Design Systems · Synopsys
+- [Content as a business asset](case-studies/content-as-business-asset.md) — connecting governance and content operations to customer and business measures.
+- [Technical content for a semiconductor IP platform](case-studies/technical-content-semiconductor-ip.md) — bringing documentation and sales enablement into one accurate content operation.
+- [Knowledge graph prototype for developer documentation](ai-knowledge-systems/developer-documentation-knowledge-graph.md) — testing how explicit relationships could improve discovery and retrieval across documentation surfaces.
 
----
+## How I approach the work
 
-## Case Studies
+I begin with the decision or customer task, then trace the content, ownership, systems, and measures that shape it. The deliverable may be a taxonomy, operating model, platform decision, quality rubric, or piece of content. The point is to make the underlying choices visible enough to maintain and improve.
 
-| Case Study | Focus | Context |
-|---|---|---|
-| [Content Advisor: An AI Governance Platform for 170M+ Words of Documentation](case-studies/content-advisor-ai-governance.md) 
-https://github.com/sharmiladas/Content-Strategy/blob/main/content-as-business-asset.md | AI content governance, quality frameworks, release gates | AWS |
-| [Building a Knowledge Graph for Developer Documentation with Kiro and MCP](case-studies/knowledge-graph-kiro-mcp.md) | Agentic content systems, knowledge architecture | Large-scale developer platform |
-| [Content as a Business Asset: Scaling Governance for a Global Team]([case-studies/content-as-business-asset.md](https://github.com/sharmiladas/Content-Strategy/blob/main/content-as-business-asset.md)) | Content strategy, team building, measurement | Global professional networking platform |
-| [Redesigning Help Center Content Architecture Around the Customer Journey](case-studies/help-center-content-architecture.md) | Information architecture, taxonomy, customer journey mapping | Eventbrite |
-| [Content Strategy for a Semiconductor IP Platform: From Documentation to Sales Enablement](case-studies/technical-content-semiconductor-ip.md) | Technical documentation, sales enablement, competitive research | Semiconductor design automation |
+All examples are anonymized. Employer names, internal program names, confidential artifacts, and proprietary implementation details are intentionally excluded.
 
----
+## About this repository
 
-## Core Skills
+This is a supporting work-sample library, not a mirror of the main website. Files are written in plain Markdown so the reasoning is easy to inspect, link, and reuse.
 
-**Content Strategy:** Strategic content planning · editorial standards · brand and voice consistency · content lifecycle management · taxonomy and metadata design · scaling content quality
-
-**AI-Powered Content Systems:** AI governance platforms · agent architectures (Claude, Kiro, MCP) · LLM-assisted content workflows · automated quality frameworks · knowledge graphs
-
-**Governance & Standards:** Standard operating procedures · version control · approval workflows · audit trails · release gate criteria · review criteria · quality checks
-
-**Technical:** Git · HTML/CSS/JavaScript · Python · SQL · REST APIs · DITA/XML · Adobe Experience Manager · headless CMS · Contentful · Mintlify · Google Analytics · Tableau
-
-**Leadership:** Global team leadership (30+ people) · vendor management · cross-functional program design
-
----
-
-## Speaking
-
-Has presented at industry conferences on **"Content as a Business Asset"** — a framework mapping content investment to the customer journey.
-
----
-
-## Education
-
-MBA — Pepperdine Graziadio School of Business
-B.E., Electrical & Electronics Engineering — Bharathiyar University, India
-Post-Graduate Certificate, Data Science — UT Austin
-Software Engineering Certificate (in progress) — UC Berkeley
-
----
-
-*This portfolio is also published as a series on [Dev.to](https://dev.to). Individual case studies include Dev.to-compatible front matter for direct publishing.*
